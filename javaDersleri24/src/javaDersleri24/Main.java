@@ -3,7 +3,8 @@ package javaDersleri24;
 public class Main {
 
 	public static void main(String[] args) {
-		
+		//sayıBulmaca metodunu çağırır.
+		//Sürekli aynı kodları yazmamak için (DRY) bir adet metod oluşturulur.İhtiyaç olduğunda çağrılır.
 		sayıBulmaca();
 	}
 	public static void sayıBulmaca() {
